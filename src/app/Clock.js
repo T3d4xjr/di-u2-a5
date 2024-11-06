@@ -1,4 +1,4 @@
-
+import styles from './styles.css';
   export default function Clock({ time })  {
       let hours = time.getHours();
       let parteHora;
